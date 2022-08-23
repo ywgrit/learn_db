@@ -4,7 +4,7 @@
 
 如下图所示，从内存管理优化、CPU 性能利用（如CPU cache和SIMD优化）到上层的 C++ Low Level 优化、数据结构和算法、高性能第三方库，每部分都有极大的性能榨取空间
 
-![数据库优化架构](/home/wx/Documents/github/learn_study/pics/数据库优化架构.jpg)
+![数据库优化架构](pics/数据库优化架构.jpg)
 
 #### 学习资料
 
