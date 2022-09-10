@@ -10,7 +10,7 @@
 
 #### wonderful resources
 
-[starrocks康凯森学习资料](https://blog.bcmeng.com/post/database-learning.html)
+[starrocks康](https://blog.bcmeng.com/post/database-learning.html)
 
 [pingcap](https://github.com/pingcap/awesome-database-learning)
 
