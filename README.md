@@ -8,16 +8,22 @@
 
 #### 
 
-#### wonderful resource
+#### wonderful resources
 
 [starrocks康凯森学习资料](https://blog.bcmeng.com/post/database-learning.html)
 
 [pingcap](https://github.com/pingcap/awesome-database-learning)
 
-#### plan in long term
+#### long-term plans
 
 - [ ] 高性能计算
 - [ ] 由OLAP型数据库需求伴随而来的列存
 - [ ] 数据库的编译执行
 - [ ] 数据库的查询优化
+
+#### Short-term plans
+
+- [ ] 查询层
+  - [ ] 如何执行
+  - [ ] 优化方向及如何优化
 
